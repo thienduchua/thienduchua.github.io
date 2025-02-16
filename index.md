@@ -3,11 +3,6 @@ layout: default
 title: Home
 ---
 
----
-layout: default
-title: Home
----
-
 <div class="container">
     <div class="row align-items-center">
         <!-- Left: Profile Image -->
@@ -19,8 +14,8 @@ title: Home
         <div class="col-md-9">
             <h1 class="fw-bold">Thien Duc Hua</h1>
             <p>
-                I am pursuing a **PhD degree** at **Queen’s University Belfast (QUB)**, within the **School of Electrical and Electronics Engineering & Computer Science**.
-                As a research student at the **Centre for Wireless Innovation (CWI)**, I work under the supervision of 
+                I am pursuing a PhD degree at Queen’s University Belfast (QUB), within the School of Electrical and Electronics Engineering & Computer Science.
+                As a research student at the Centre for Wireless Innovation (CWI), I work under the supervision of 
                 <a href="https://sites.google.com/site/micmatthaiou/home">Professor Michail Matthaiou</a> and 
                 <a href="https://sites.google.com/site/nqhienqn/home">Associate Professor Hien Quoc Ngo</a>.
             </p>
