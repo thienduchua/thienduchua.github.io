@@ -25,17 +25,16 @@ title: Home
 
 ---
 
-## Links
+### Links
 **Email:** [dhua01@qub.ac.uk](mailto:dhua01@qub.ac.uk)  
 **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=UpJlLesAAAAJ)  
 **Web of Science:** [Profile](https://www.webofscience.com/wos/author/record/ISA-6510-2023)  
 **ORCID:** [Profile](https://orcid.org/0009-0004-0567-5880)  
 
-## Research Interests
+### Research Interests
 - **Cell-free massive MIMO** and **simultaneous wireless information and power transfer (SWIPT)**
 - **Reconfigurable intelligent surfaces (RISs)**
 - **Deep reinforcement learning and optimization techniques**
-
 
 ### Awards & Scholarships  
 
