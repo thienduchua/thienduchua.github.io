@@ -1,1 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
 
+<!-- Navbar -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+        <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ '/publications' | relative_url }}">Publications</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ '/services' | relative_url }}">Services</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ '/updates' | relative_url }}">Updates</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Main Content -->
+<div class="container mt-4">
+
+    <!-- Profile Section -->
+    <div class="row align-items-center">
+        <!-- Left: Profile Image -->
+        <div class="col-md-3 text-center">
+            <img src="{{ '/assets/thienhua_portrait.png' | relative_url }}" alt="Thien Duc Hua" class="img-fluid rounded-circle" style="max-width: 150px;">
+        </div>
+        
+        <!-- Right: Name & Bio -->
+        <div class="col-md-9">
+            <h1 class="fw-bold">Thien Duc Hua</h1>
+            <p>
+                I am pursuing a **PhD degree** at **Queen’s University Belfast (QUB)**, within the **School of Electrical and Electronics Engineering & Computer Science**.
+                As a research student at the **Centre for Wireless Innovation (CWI)**, I work under the supervision of 
+                <a href="https://sites.google.com/site/micmatthaiou/home">Professor Michail Matthaiou</a> and 
+                <a href="https://sites.google.com/site/nqhienqn/home">Associate Professor Hien Quoc Ngo</a>.
+            </p>
+        </div>
+    </div>
+
+    <hr>
+
+    <!-- Dynamic Page Content -->
+    {{ content }}
+
+</div>
+
+<!-- Footer -->
+<footer class="footer bg-dark text-light text-center py-3">
+    <p>© {{ site.time | date: "%Y" }} {{ site.author }}. All rights reserved.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
