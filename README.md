@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 About Me  
+## About  
 
 I am pursuing a **PhD in Wireless Communications** at **Queen’s University Belfast (QUB)**, within the **School of Electrical and Electronics Engineering & Computer Science**.  
 As a researcher at the **Centre for Wireless Innovation (CWI)**, I work under the supervision of **Professor Michail Matthaiou** [🔗](https://sites.google.com/site/micmatthaiou/home) and **Associate Professor Hien Quoc Ngo** [🔗](https://sites.google.com/site/nqhienqn/home).  
