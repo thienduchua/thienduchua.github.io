@@ -1,6 +1,9 @@
+---
+layout: default
+title: Home
+---
 
-
-## Services & Contributions  
+# Services & Contributions  
 
 - **President**, Vietnamese Student Society at Queen’s University Belfast (Current) [🔗](https://home.q-su.org/clubssocieties/vietnamese/)  
 - **Presenter**, IEEE Wireless Communications and Networking Conference (WCNC), April 2024, Dubai [🔗](https://ieeexplore.ieee.org/document/10571002)  
@@ -19,7 +22,7 @@
 
 ---
 
-## Awards & Scholarships  
+### Awards & Scholarships  
 
 - **Special Research Scholarship (ERC)**, Queen’s University Belfast *(2023 - 2026)*  
 - **Chung-Ang University Young Scientist Scholarship**, Chung-Ang University *(2021 - 2023)*  
