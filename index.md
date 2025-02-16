@@ -36,7 +36,6 @@ title: Home
 - **Reconfigurable intelligent surfaces (RISs)**
 - **Deep reinforcement learning and optimization techniques**
 
----
 
 ### Awards & Scholarships  
 
