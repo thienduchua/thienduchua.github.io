@@ -28,33 +28,7 @@
 
 <!-- Main Content -->
 <div class="container mt-4">
-
-    {% if page.url == "/" %}
-    <!-- Profile Section (Only on Home Page) -->
-    <div class="row align-items-center">
-        <!-- Left: Profile Image -->
-        <div class="col-md-3 text-center">
-            <img src="{{ '/assets/thienhua_portrait.png' | relative_url }}" alt="Thien Duc Hua" class="img-fluid rounded-circle" style="max-width: 150px;">
-        </div>
-        
-        <!-- Right: Name & Bio -->
-        <div class="col-md-9">
-            <h1 class="fw-bold">Thien Duc Hua</h1>
-            <p>
-                I am pursuing a **PhD degree** at **Queen’s University Belfast (QUB)**, within the **School of Electrical and Electronics Engineering & Computer Science**.
-                As a research student at the **Centre for Wireless Innovation (CWI)**, I work under the supervision of 
-                <a href="https://sites.google.com/site/micmatthaiou/home">Professor Michail Matthaiou</a> and 
-                <a href="https://sites.google.com/site/nqhienqn/home">Associate Professor Hien Quoc Ngo</a>.
-            </p>
-        </div>
-    </div>
-
-    <hr>
-    {% endif %}
-
-    <!-- Dynamic Page Content -->
     {{ content }}
-
 </div>
 
 <!-- Footer -->
