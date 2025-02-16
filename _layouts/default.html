@@ -29,7 +29,8 @@
 <!-- Main Content -->
 <div class="container mt-4">
 
-    <!-- Profile Section -->
+    {% if page.url == "/" %}
+    <!-- Profile Section (Only on Home Page) -->
     <div class="row align-items-center">
         <!-- Left: Profile Image -->
         <div class="col-md-3 text-center">
@@ -49,6 +50,7 @@
     </div>
 
     <hr>
+    {% endif %}
 
     <!-- Dynamic Page Content -->
     {{ content }}
