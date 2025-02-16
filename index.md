@@ -38,5 +38,14 @@ title: Home
 
 ---
 
+### Awards & Scholarships  
+
+- **Special Research Scholarship (ERC)**, Queen’s University Belfast *(2023 - 2026)*  
+- **Chung-Ang University Young Scientist Scholarship**, Chung-Ang University *(2021 - 2023)*  
+- **Brain Korea 21 Scholarship**, South Korean Government Scholarship *(2021 - 2023)*
+
+
+---
+
 *"To err is human; to persist in error is diabolical."*  
 — *Saint Augustine*  
