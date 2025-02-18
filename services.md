@@ -19,5 +19,7 @@ title: Home
 - IEEE Internet of Things Journal (IEEE IoTJ)  
 - IEEE Open Journal of the Communications Society (IEEE OJCOMS)  
 - IEEE Transactions on Vehicular Technology (IEEE TVT)  
+- 2025 IEEE International Conference on Communications (IEEE ICC)
+
 
 ---
