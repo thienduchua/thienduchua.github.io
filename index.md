@@ -69,7 +69,7 @@ title: Home
 
 
 **Research Student**  
-[*Ultra-Intelligent Computing/Communication Lab, Seoul, South Korea*](https://uclab.re.kr/index.html)
+[*Ultra-Intelligent Computing/Communication Lab, Seoul, South Korea*](https://uclab.re.kr/index.html)  
 *March 2021 – February 2023*  
 **Supervisor:** [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho)  
 **Project(s):**  
