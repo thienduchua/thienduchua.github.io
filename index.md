@@ -26,7 +26,7 @@ title: Home
 ### Links
 **Email:** [dhua01@qub.ac.uk](mailto:dhua01@qub.ac.uk)  
 **Google Scholar:** [Profile](https://scholar.google.com/citations?hl=en&user=UpJlLesAAAAJ)  
-**Reseach Gate:** [Profile](https://www.researchgate.net/profile/Thien-Hua-2?ev=hdr_xprf)
+**Reseach Gate:** [Profile](https://www.researchgate.net/profile/Thien-Hua-2?ev=hdr_xprf)  
 **Web of Science:** [Profile](https://www.webofscience.com/wos/author/record/ISA-6510-2023)  
 **ORCID:** [Profile](https://orcid.org/0009-0004-0567-5880)  
 
