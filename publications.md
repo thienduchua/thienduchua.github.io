@@ -29,11 +29,12 @@ title: Publications
 - **Thien Duc Hua**, Quang Tuan Do, Nhu-Ngoc Dao, The-Vi Nguyen, Demeke Shumeye Lakew, Sungrae Cho, 
   "Learning-Based Reconfigurable-Intelligent-Surface-Aided Rate-Splitting Multiple Access Networks", 
   *<span style="color: blue;">IEEE Internet of Things Journal</span>*, Oct 2023. 
-  [🔗](https://ieeexplore.ieee.org/abstract/document/10131984).
+  [🔗](https://www.researchgate.net/publication/371167332_Learning-based_Reconfigurable_Intelligent_Surface-aided_Rate-Splitting_Multiple_Access_Networks).  
 
 
 
 ## International Conferences
 (to be updated)
-- **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *Proc. IEEE WCNC*, Apr 2024. [🔗](https://arxiv.org/abs/2402.00646).
+- **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *Proc. IEEE WCNC*, Apr 2024. [🔗](https://arxiv.org/abs/2402.00646).  
+- Cuong Manh Ho, Demeke Shumeye Lakew, Anh-Tien Tran, Chunghyun Lee, **Thien Duc Hua**,Sungrae Cho, "A Review on Unmanned Aerial Vehicle-based Networks and Satellite-based Networks with RSMA: Research Challenges and Future Trends", *Proc. IEEE ICAIIC*, Feb 2023. [🔗](https://www.researchgate.net/publication/369495670_A_Review_on_Unmanned_Aerial_Vehicle-based_Networks_and_Satellite-based_Networks_with_RSMA_Research_Challenges_and_Future_Trends).  
 
