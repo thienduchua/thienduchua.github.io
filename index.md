@@ -43,12 +43,13 @@ title: Home
 
 ---
 
-#### [**Master of Engineering - Major in Big Data**](https://drive.google.com/file/d/1zfK5DIXh9ELMOHaB1yTN_5Fut1erDO3l/view?usp=sharing)  
+#### **Master of Engineering - Major in Big Data**  
 📍 *Chung-Ang University, Seoul, South Korea*  
 📅 *March 2021 – February 2023*  
 **Thesis Title:** Intelligent Reflecting Surface-assisted Uplink Rate Splitting Multiple Access Networks  
-**Supervisor:** [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho) 
+**Supervisor:** [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho)  
 **GPA:** 4.45/4.5
+
 
 ---
 
