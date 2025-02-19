@@ -47,7 +47,7 @@ title: Home
 📍 *Chung-Ang University, Seoul, South Korea*  
 📅 *March 2021 – February 2023*  
 **Thesis Title:** Intelligent Reflecting Surface-assisted Uplink Rate Splitting Multiple Access Networks  
-**Supervisor:** Prof. Sungrae Cho
+**Supervisor:** [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho) 
 **GPA:** 4.45/4.5
 
 ---
