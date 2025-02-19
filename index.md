@@ -34,35 +34,32 @@ title: Home
 
 ### Education
 
-#### **Ph.D. Candidate in Wireless Communications**  
+**Ph.D. Candidate in Wireless Communications**  
 *Queen’s University Belfast, Belfast, Northern Ireland, U.K.*  
 📅 *August 2023 – Present*  
 **Research Area:** Cell-free massive MIMO SWIPT, Reconfigurable Intelligent Surfaces, Deep Reinforcement Learning and Optimization Techniques  
 **Supervisors:** [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthaiou/home), [Prof. Hien Quoc Ngo](https://sites.google.com/site/nqhienqn/home)  
 **Affiliation:** Centre for Wireless Innovation (CWI)  
 
----
-
-#### **Master of Engineering - Major in Big Data**  
+**Master of Engineering - Major in Big Data**  
 📍 *Chung-Ang University, Seoul, South Korea*  
 📅 *March 2021 – February 2023*  
 **Thesis Title:** Intelligent Reflecting Surface-assisted Uplink Rate Splitting Multiple Access Networks  
 **Supervisor:** [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho)  
 **GPA:** 4.45/4.5
 
-
----
-
-#### **Bachelor of Electrical and Electronics Engineering**  
+**Bachelor of Electrical and Electronics Engineering**  
 *Ho Chi Minh City University of Technology and Education, Vietnam*  
 *September 2015 – April 2020*  
 **Thesis Title:** Electricity Usage Power Monitor in the Cloud.  
 **Supervisor:** Dr. Trong Nghia Le  
 **GPA:** 7.6/10
 
+---
+
 ### Work Experience
 
-#### **Research Student**  
+**Research Student**  
 [*Centre for Wireless Innovation, Belfast, Northern Ireland, U.K.*](https://www.qub.ac.uk/research-centres/cwi/)  
 *August 2023 – Current*  
 **Supervisors:** [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthaiou/home) & [Prof. Hien Ngo](https://sites.google.com/site/nqhienqn/home)  
@@ -70,9 +67,8 @@ title: Home
 - **Reflecting Intelligent Surfaces for Near-field Energy Transfer (R6664ECS)**  
   - Funded by: *European Research Council (ERC)*  
 
----
 
-#### **Research Student**  
+**Research Student**  
 [*Ultra-Intelligent Computing/Communication Lab, Seoul, South Korea*](https://uclab.re.kr/index.html)
 *March 2021 – February 2023*  
 **Supervisor:** [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho)  
@@ -82,14 +78,14 @@ title: Home
 - **Connected Mobility Basic Research Laboratory (R20XO02-15)**  
   - Funded by: *National Research Foundation (NRF)*  
 
----
 
-#### **Undergraduate Research Assistant**  
+**Undergraduate Research Assistant**  
 *Power System Lab, Ho Chi Minh, Vietnam*  
 *January 2020 – January 2021*  
 **Manager:** Dr. Trong Nghia Le  
 **Address:** *GE-UTE room, Building D, University of Technology and Education*  
 
+---
 
 ### Awards & Scholarships  
 
