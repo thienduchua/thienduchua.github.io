@@ -79,9 +79,10 @@ Project(s):
 
 
 **Undergraduate Research Assistant**  
-📍 *Power System Lab, GE-UTE room, Building D, University of Technology and Education, Ho Chi Minh, Vietnam*  
+📍 [*Power System Lab, GE-UTE room, University of Technology and Education, Ho Chi Minh, Vietnam*](https://vi.wikipedia.org/wiki/T%E1%BA%ADp_tin:Trung_t%C3%A2m_GE-UTE_HCMUTE.jpg)  
 📅 *January 2020 – January 2021*  
 Manager: Dr. Trong Nghia Le  
+Research Topic: Optimization for Power Grid Load Shedding
 
 ---
 
