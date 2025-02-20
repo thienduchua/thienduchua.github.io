@@ -29,7 +29,7 @@ title: Publications
 - **Thien Duc Hua**, Quang Tuan Do, Nhu-Ngoc Dao, The-Vi Nguyen, Demeke Shumeye Lakew, Sungrae Cho, 
   "Learning-Based Reconfigurable-Intelligent-Surface-Aided Rate-Splitting Multiple Access Networks", 
   *<span style="color: blue;">IEEE Internet of Things Journal</span>*, Oct 2023. 
-  [🔗](https://www.researchgate.net/publication/371167332_Learning-based_Reconfigurable_Intelligent_Surface-aided_Rate-Splitting_Multiple_Access_Networks).
+  [🔗](https://www.researchgate.net/publication/370984447_Learning-based_Reconfigurable_Intelligent_Surface-aided_Rate-Splitting_Multiple_Access_Networks).
 
 - An T Nguyen, Nghia T Le, Anh H Quyen, Binh TT Phan, Tan P Trieu, **Duc Thien Hua**, "Application of AHP algorithm on power distribution of load shedding in island microgrid", *<span style="color: blue;">International Journal of Electrical and Computer Engineering</span>*, Apr 2021. [🔗](https://d1wqtxts1xzle7.cloudfront.net/66105664/11_22925_CE_30jul_15apr_L-libre.pdf?1616750769=&response-content-disposition=inline%3B+filename%3DApplication_of_AHP_algorithm_on_power_di.pdf&Expires=1740071646&Signature=ZvkRtCUjGvam8RP6dnV3Zjmrx2UxVW7ZhcKetQ9EVQsXtYxQ2sd6rVcYG0a3txpQlMluOKG1tq7VovDX1nlF8lGD533h7iDrvxsomrqoxX29H2SxYWiodmUmTWFpHq9~vmcKVneQqxjC2cwKmmRe-1HAjbMK0zHMKpqbD7yQY67iKIs6VAFfbnciaKY0WAu7tMQfgHQFqGNKYRBUSLaouU-P9iwAh-dHJXiIzgMME7Qvel0WshtdWG93kDESeGZdhrgdUNZQcBEkxKKtJPrU-2NR0vJlOR~T3Vgly5QphoAFoeMWhB9aAXpZLB35eGi6srsIKfIK3Fz6nL5rgmq1tQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).  
 
