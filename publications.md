@@ -8,7 +8,7 @@ title: Publications
 ## Submitted Manuscripts
 (to be updated)
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "SWIPT in Cell-Free Massive MIMO Using Stacked Intelligent Metasurfaces", *submitted to <span style="color: blue;">2025 IEEE ICC</span>*. 
-  *<span style="color: red;">(IEEE ComSocs Flagship Conference, avg. AR <40%)</span>*  
+  *<span style="color: red;">(IEEE ComSoc Flagship Conference, avg. AR <40%)</span>*  
 
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *submitted to <span style="color: blue;">IEEE Transactions on Communications</span>*.
   *<span style="color: red;">(Q1 SCIE 2023, IF: 7.2)</span>*  
@@ -46,7 +46,7 @@ title: Publications
 ## International Conferences
 (to be updated)
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *Proc. IEEE WCNC*, Apr 2024. [🔗](https://arxiv.org/abs/2402.00646).
-  *<span style="color: red;">(IEEE ComSocs Core Conference, avg. AR <46%)</span>*
+  *<span style="color: red;">(IEEE ComSoc Core Conference, avg. AR <46%)</span>*
 
 - Cuong Manh Ho, Demeke Shumeye Lakew, Anh-Tien Tran, Chunghyun Lee, **Thien Duc Hua**,Sungrae Cho, "A Review on Unmanned Aerial Vehicle-based Networks and Satellite-based Networks with RSMA: Research Challenges and Future Trends", *Proc. IEEE ICAIIC*, Feb 2023. [🔗](https://www.researchgate.net/publication/369495670_A_Review_on_Unmanned_Aerial_Vehicle-based_Networks_and_Satellite-based_Networks_with_RSMA_Research_Challenges_and_Future_Trends).  
 
