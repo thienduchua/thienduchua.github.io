@@ -56,7 +56,7 @@ GPA: 7.6/10
 
 ---
 
-### Work Experience
+### Research Experience
 
 **Research Student**  
 📍 [*Centre for Wireless Innovation, Belfast, Northern Ireland, U.K.*](https://www.qub.ac.uk/research-centres/cwi/)  
