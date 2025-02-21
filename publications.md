@@ -8,10 +8,10 @@ title: Publications
 ## Submitted Manuscripts
 (to be updated)
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "SWIPT in Cell-Free Massive MIMO Using Stacked Intelligent Metasurfaces", *submitted to <span style="color: blue;">2025 IEEE ICC</span>*. 
-  (*<span style="color: red;">IEEE ComSocs Flagship Conference</span>*)
+  *<span style="color: red;">(IEEE ComSocs Flagship Conference, average acceptance rate <40%)</span>*  
 
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *submitted to <span style="color: blue;">IEEE Transactions on Communications</span>*.
-  (*<span style="color: red;">Q1 SCIE 2023, IF: 7.2 </span>*)  
+  *<span style="color: red;">(Q1 SCIE 2023, IF: 7.2)</span>*  
 
 ## International Journals 
 (to be updated)
@@ -19,25 +19,25 @@ title: Publications
   "Multi-UAV aided energy-aware transmissions in mmWave communication network: Action-branching QMIX network", 
   *<span style="color: blue;">Journal of Network and Computer Applications</span>*, Oct 2024.
   [🔗](https://www.sciencedirect.com/science/article/pii/S1084804524001255).
-  (*<span style="color: red;">Q1 SCIE 2023, IF: 7.7 </span>*)  
+  *<span style="color: red;">(Q1 SCIE 2023, IF: 7.7)</span>*  
 
 - The-Vinh Nguyen, **Thien Duc Hua**, Thien Ho Huong, Vinh Truong Hoang, Nhu-Ngoc Dao, Sungrae Cho, 
   "Intelligent QoE Management for IoMT Streaming Services in Multiuser Downlink RSMA Networks", 
   *<span style="color: blue;">IEEE Internet of Things Journal</span>*, Apr 2024.
   [🔗](https://ieeexplore.ieee.org/abstract/document/10322782).
-  (*<span style="color: red;">Q1 SCIE 2023, IF: 8.2 </span>*)   
+  *<span style="color: red;">(Q1 SCIE 2023, IF: 8.2)</span>*   
 
 - **Thien Duc Hua**, Quang Tuan Do, Nhu-Ngoc Dao, Sungrae Cho, 
   "On sum-rate maximization in downlink UAV-aided RSMA systems", 
   *<span style="color: blue;">Information & Communications Technology Express</span>*, Feb 2024. 
   [🔗](https://www.sciencedirect.com/science/article/pii/S2405959523000280).
-  (*<span style="color: red;">Q2 SCIE 2023, IF: 4.1 </span>*)   
+  *<span style="color: red;">(Q2 SCIE 2023, IF: 4.1)</span>*   
   
 - **Thien Duc Hua**, Quang Tuan Do, Nhu-Ngoc Dao, The-Vi Nguyen, Demeke Shumeye Lakew, Sungrae Cho, 
   "Learning-Based Reconfigurable-Intelligent-Surface-Aided Rate-Splitting Multiple Access Networks", 
   *<span style="color: blue;">IEEE Internet of Things Journal</span>*, Oct 2023. 
   [🔗](https://www.researchgate.net/publication/370984447_Learning-based_Reconfigurable_Intelligent_Surface-aided_Rate-Splitting_Multiple_Access_Networks).
-  (*<span style="color: red;">Q1 SCIE 2023, IF: 8.2 </span>*)  
+  *<span style="color: red;">(Q1 SCIE 2023, IF: 8.2)</span>*  
 
 - An T Nguyen, Nghia T Le, Anh H Quyen, Binh TT Phan, Tan P Trieu, **Duc Thien Hua**, "Application of AHP algorithm on power distribution of load shedding in island microgrid", *<span style="color: blue;">International Journal of Electrical and Computer Engineering</span>*, Apr 2021. [🔗](https://d1wqtxts1xzle7.cloudfront.net/66105664/11_22925_CE_30jul_15apr_L-libre.pdf?1616750769=&response-content-disposition=inline%3B+filename%3DApplication_of_AHP_algorithm_on_power_di.pdf&Expires=1740071646&Signature=ZvkRtCUjGvam8RP6dnV3Zjmrx2UxVW7ZhcKetQ9EVQsXtYxQ2sd6rVcYG0a3txpQlMluOKG1tq7VovDX1nlF8lGD533h7iDrvxsomrqoxX29H2SxYWiodmUmTWFpHq9~vmcKVneQqxjC2cwKmmRe-1HAjbMK0zHMKpqbD7yQY67iKIs6VAFfbnciaKY0WAu7tMQfgHQFqGNKYRBUSLaouU-P9iwAh-dHJXiIzgMME7Qvel0WshtdWG93kDESeGZdhrgdUNZQcBEkxKKtJPrU-2NR0vJlOR~T3Vgly5QphoAFoeMWhB9aAXpZLB35eGi6srsIKfIK3Fz6nL5rgmq1tQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).  
 
@@ -46,7 +46,7 @@ title: Publications
 ## International Conferences
 (to be updated)
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *Proc. IEEE WCNC*, Apr 2024. [🔗](https://arxiv.org/abs/2402.00646).
-  (*<span style="color: red;">IEEE ComSocs Core Conference</span>*)
+  *<span style="color: red;">(IEEE ComSocs Core Conference, average acceptance rate <46%)</span>*
 
 - Cuong Manh Ho, Demeke Shumeye Lakew, Anh-Tien Tran, Chunghyun Lee, **Thien Duc Hua**,Sungrae Cho, "A Review on Unmanned Aerial Vehicle-based Networks and Satellite-based Networks with RSMA: Research Challenges and Future Trends", *Proc. IEEE ICAIIC*, Feb 2023. [🔗](https://www.researchgate.net/publication/369495670_A_Review_on_Unmanned_Aerial_Vehicle-based_Networks_and_Satellite-based_Networks_with_RSMA_Research_Challenges_and_Future_Trends).  
 
