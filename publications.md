@@ -64,13 +64,14 @@ title: Publications
 
 - Cuong Manh Ho, Anh Tien Tran, Chunghyun Lee, **Duc Thien Hua**, Sungrae Cho, "Handover in mobility-aware caching strategy for LEO satellite-based overlay system with content delivery network", *Proc. MobiHoc*, Oct 2022. [🔗](https://www.researchgate.net/publication/364121027_Handover_in_mobility-aware_caching_strategy_for_LEO_satellite-based_overlay_system_with_content_delivery_network).  
 
-- Nam-Phuong Tran, **Duc Thien Hua**, Thi My Tuyen Nguyen, Sungrae Cho, "Defense mechanism for Distributed Denial-of-Service in IoT network", *Proc. KICS Symposium*, Jun 2022. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108051).  
-
 - **Duc Thien Hua**, Thi My Tuyen Nguyen, Sungrae Cho, "RIS-assisted two-layer HRS Downlink MISO Transmission Network", *Proc. KICS Symposium*, Jun 2022. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108187).  
 
-- Quang Tuan Do, **Duc Thien Hua**, Anh Tien Tran, Donghyun Lee, Sungrae Cho, "Sum-Rate Maximization of Uplink RSMA Communication Using DQN", *Proc. KICS Symposium*, Jun 2022. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11047902).  
+- **Duc Thien Hua**, Demeke Shumeye Lakew, Sungrae Cho, "DRL-based Energy Efficient Communication Coverage Control in Hierarchical HAP-LAP Network", *Proc. IEEE ICOIN*, Jan 2022. [🔗](https://www.researchgate.net/publication/358180297_DRL-based_Energy_Efficient_Communication_Coverage_Control_in_Hierarchical_HAP-LAP_Network).
 
-- **Duc Thien Hua**, Demeke Shumeye Lakew, Sungrae Cho, "DRL-based Energy Efficient Communication Coverage Control in Hierarchical HAP-LAP Network", *Proc. IEEE ICOIN*, Jan 2022. [🔗](https://www.researchgate.net/publication/358180297_DRL-based_Energy_Efficient_Communication_Coverage_Control_in_Hierarchical_HAP-LAP_Network).  
+## Korean Domestic Conference
+- Nam-Phuong Tran, **Duc Thien Hua**, Thi My Tuyen Nguyen, Sungrae Cho, "Defense mechanism for Distributed Denial-of-Service in IoT network", *Proc. KICS Symposium*, Jun 2022. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108051).
+
+- Quang Tuan Do, **Duc Thien Hua**, Anh Tien Tran, Donghyun Lee, Sungrae Cho, "Sum-Rate Maximization of Uplink RSMA Communication Using DQN", *Proc. KICS Symposium*, Jun 2022. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11047902).  
 
 - **Duc Thien Hua**, Jeonghwa Lee, Demeke Shumeye Lakew, Anh-Tien Tran, Thanh Phung Truong, Sungrae Cho, "DQN-based Relay UAV Trajectory Planning in Cellular Network", *Proc. KICS Symposium*, Nov 2021. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11022840).  
 
