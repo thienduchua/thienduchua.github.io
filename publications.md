@@ -29,7 +29,7 @@ title: Publications
 
 - **Thien Duc Hua**, Quang Tuan Do, Nhu-Ngoc Dao, Sungrae Cho, 
   "On sum-rate maximization in downlink UAV-aided RSMA systems", 
-  *<span style="color: blue;">Information & Communications Technology Express</span>*, Feb 2024. 
+  *<span style="color: blue;">Information & Communications Technology (ICT) Express</span>*, Feb 2024. 
   [🔗](https://www.sciencedirect.com/science/article/pii/S2405959523000280).
   *<span style="color: red;">(Q2 SCIE 2023, IF: 4.1)</span>*   
   
