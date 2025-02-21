@@ -3,18 +3,30 @@ layout: default
 title: Home
 ---
 
-### Services & Contributions  
+## Society Services 
+- **President**, Vietnamese Student Society at Queen’s University Belfast (Current) [🔗](https://home.q-su.org/clubssocieties/vietnamese/)  
 
-- **President**, Vietnamese Student Society at Queen’s University Belfast (Current) [🔗](https://home.q-su.org/clubssocieties/vietnamese/)
 
-- **Presenter & Reviewer**, IEEE Wireless Communications and Networking Conference (WCNC), April 2024, Dubai [🔗](https://ieeexplore.ieee.org/document/10571002)  
-- **Presenter & Reviewer**, IEEE Conference on Artificial Intelligence in Information and Communication (ICAIIC), February 2023, Bali, Indonesia [🔗](https://ieeexplore.ieee.org/abstract/document/10067114)  
-- **Presenter**, Conference of Vietnamese Young Scientists, December 2022, Seoul, South Korea [🔗](https://drive.google.com/file/d/1IFxmaldEJPH0fIn-uDcfLK72LDxNyuTP/view)  
-- **Presenter & Reviewer**, IEEE Information and Communication Technology Convergence (ICTC), October 2022, Jeju Island, South Korea [🔗](https://ieeexplore.ieee.org/abstract/document/9952411)  
-- **Presenter & Reviewer**, IEEE International Conference on Information Networking (ICOIN), January 2022, Jeju Island, South Korea [🔗](https://ieeexplore.ieee.org/abstract/document/9687180)  
-- **Presenter**, KICS Conference of the Korean Society of Communications and Communications, October 2021, Jeju Island, South Korea [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10587233)  
+## International/Domestic Conference Presenter:
+- 2024 IEEE WCNC[🔗](https://ieeexplore.ieee.org/document/10571002)  
+- 2023 IEEE ICAIIC[🔗](https://ieeexplore.ieee.org/abstract/document/10067114)  
+- 2022 ACVYS[🔗](https://drive.google.com/file/d/1IFxmaldEJPH0fIn-uDcfLK72LDxNyuTP/view)
+- 2022 IEEE ICTC[🔗](https://ieeexplore.ieee.org/abstract/document/9952411)  
+- 2022 IEEE ICOIN[🔗](https://ieeexplore.ieee.org/abstract/document/9687180)  
+- 2021 KICS Symposium[🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE10587233)
 
-- **Reviewer:** IEEE CL, IEEE WCL, IEEE IoTJ, IEEE OJCOMS, IEEE TVT
+
+## Reviewer
+
+#### International Journals 
+- IEEE Communications Letters
+- IEEE Wireless Communications Letters
+- IEEE Internet of Things Journal
+- IEEE Transactions on Vehicular Technology
+- IEEE Open Journal of the Communications Society
+
+#### International Conferences
+- 2025 IEEE ICC, 2024 IEEE WCNC, 2023 IEEE ICAIIC, 2022 IEEE ICTC, 2022 IEEE ICOIN.
 
 
 ---
