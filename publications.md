@@ -13,6 +13,8 @@ title: Publications
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *submitted to <span style="color: blue;">IEEE Transactions on Communications</span>*.
   *<span style="color: red;">(Q1 SCIE 2023, IF: 7.2)</span>*  
 
+
+
 ## International Journals 
 (to be updated)
 - Quang Tuan Do, **Thien Duc Hua**, Anh-Tien Tran, Dongwook Won, Geeranuch Woraphonebenjakul, Wonjong Noh, Sungrae Cho, 
@@ -68,7 +70,9 @@ title: Publications
 
 - **Duc Thien Hua**, Demeke Shumeye Lakew, Sungrae Cho, "DRL-based Energy Efficient Communication Coverage Control in Hierarchical HAP-LAP Network", *Proc. IEEE ICOIN*, Jan 2022. [🔗](https://www.researchgate.net/publication/358180297_DRL-based_Energy_Efficient_Communication_Coverage_Control_in_Hierarchical_HAP-LAP_Network).
 
-## Korean Domestic Conference
+
+
+## Korean Domestic Conferences
 - Nam-Phuong Tran, **Duc Thien Hua**, Thi My Tuyen Nguyen, Sungrae Cho, "Defense mechanism for Distributed Denial-of-Service in IoT network", *Proc. KICS Symposium*, Jun 2022. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11108051).
 
 - Quang Tuan Do, **Duc Thien Hua**, Anh Tien Tran, Donghyun Lee, Sungrae Cho, "Sum-Rate Maximization of Uplink RSMA Communication Using DQN", *Proc. KICS Symposium*, Jun 2022. [🔗](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11047902).  
