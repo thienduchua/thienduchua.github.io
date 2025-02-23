@@ -55,8 +55,8 @@ I would like to express my deepest gratitude to my former supervisors, [Prof. Su
 
 With their mentorship, I successfully earned my *Master of Engineering*, publishing *three Q1 SCIE* and *one Q2 SCIE* journal papers, along with several conference articles. Thanks to their references, I embarked on my PhD journey at Queen’s University Belfast, U.K..  
 <div align="center">
-    <img src="/assets/cau23_1.jpg" alt="1" width="44%">
-    <img src="/assets/cau23_2.jpg" alt="2a" width="44%">
-    <img src="/assets/cau23_3.jpg" alt="1" width="44%">
+    <img src="/assets/cau23_1.jpg" alt="1" width="33%">
+    <img src="/assets/cau23_2.jpg" alt="2a" width="33%">
+    <img src="/assets/cau23_3.jpg" alt="1" width="33%">
 </div>
 
