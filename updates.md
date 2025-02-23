@@ -5,6 +5,8 @@ title: Updates
 
 # to be continued
 
+---
+
 ##### January 15th, 2025
 Participated in **Capture The Flag**, hosted by the **QUB Centre for Secure Information Technologies (CSIT)** and the **Cyber-AI Nvidia Project**. Gained hands-on experience in **Linux operations** and ethical hacking, applying cybersecurity techniques to identify hidden *flags*.
 <div align="center">
@@ -13,6 +15,7 @@ Participated in **Capture The Flag**, hosted by the **QUB Centre for Secure Info
     <img src="/assets/ctf_3.jpg" alt="3" width="30%">
 </div>
 
+---
 
 ##### November 12th, 2024  
 
