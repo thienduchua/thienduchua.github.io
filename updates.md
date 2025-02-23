@@ -3,8 +3,6 @@ layout: default
 title: Updates
 ---
 
-# to be continued
-
 ---
 
 ##### January 15th, 2025
