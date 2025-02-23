@@ -47,3 +47,17 @@ Attended **2024 IEEE WCNC Conference** with my supervisors and part of our resea
 
 Completed the **Fundamentals of Deep Learning** training course by **NVIDIA**. ([Certificate](https://learn.nvidia.com/certificates?id=a6b89756d9b84648ae70188b3757a9ac))  
 
+---
+
+##### February 17th, 2023  
+
+I would like to express my deepest gratitude to my former supervisors, [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho) and [Assoc. Prof. Nhu-Ngoc Dao](https://nndao.github.io/), for their unwavering support and guidance.  
+
+With their mentorship, I successfully earned my **Master of Engineering**, publishing **three Q1 SCIE** and **one Q2 SCIE** journal papers, along with several conference articles. Thanks to their references, I embarked on my **PhD journey** at **Queen’s University Belfast, U.K.**.  
+<div align="center">
+    <img src="/assets/wcnc24_1.jpg" alt="supervisors" width="44%">
+    <img src="/assets/wcnc24_2.jpg" alt="2a" width="44%">
+    <img src="/assets/wcnc24_3.jpg" alt="supervisors" width="44%">
+    <img src="/assets/wcnc24_4.jpg" alt="2a" width="44%">
+</div>
+
