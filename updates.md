@@ -60,3 +60,7 @@ With their mentorship, I successfully earned my *Master of Engineering*, publish
     <img src="/assets/cau23_3.jpg" alt="1" width="32%">
 </div>
 
+---
+
+*"To err is human; to persist in error is diabolical."*  
+— *Saint Augustine*  
