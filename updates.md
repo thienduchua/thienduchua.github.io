@@ -20,7 +20,7 @@ I participated in the **QUB Datathon**, hosted in partnership with **Alteryx Spa
 
 Attended **2024 IEEE WCNC Conference** with my supervisors and part of our research team.
 <div align="center">
-    <img src="/assets/datathon_1.jpg" alt="Presentation" width="40%">
-    <img src="/assets/datathon_2.jpg" alt="My Collaborative Teammates" width="40%">
+    <img src="/assets/wcnc24_1.jpg" alt="supervisors" width="40%">
+    <img src="/assets/wcnc24_1.jpg" alt="teammates" width="40%">
 </div>
 
