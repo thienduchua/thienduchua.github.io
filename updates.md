@@ -26,7 +26,7 @@ I participated in the **QUB Datathon**, hosted in partnership with **Alteryx Spa
 
 <div align="center">
     <img src="/assets/datathon_1.jpg" alt="Presentation" width="40%">
-    <img src="/assets/datathon_2.jpg" alt="My Collaborative Teammates" width="34%">
+    <img src="/assets/datathon_2.jpg" alt="My Collaborative Teammates" width="35%">
 </div>
 
 ---
