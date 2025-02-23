@@ -60,7 +60,8 @@ With their mentorship, I earned my *Master of Engineering*, publishing *three Q1
     <img src="/assets/cau23_3.jpg" alt="1" width="32%">
 </div>
 
+*"Early birds get the world."*  
+— *Professor Cho*  
+
 ---
 
-*"To err is human; to persist in error is diabolical."*  
-— *Saint Augustine*  
