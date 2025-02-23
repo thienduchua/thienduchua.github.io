@@ -37,8 +37,6 @@ Attended **2024 IEEE WCNC Conference** with my supervisors and part of our resea
 <div align="center">
     <img src="/assets/wcnc24_1.jpg" alt="supervisors" width="44%">
     <img src="/assets/wcnc24_2.jpg" alt="2a" width="44%">
-</div>
-<div align="center">
     <img src="/assets/wcnc24_3.jpg" alt="supervisors" width="44%">
     <img src="/assets/wcnc24_4.jpg" alt="2a" width="44%">
 </div>
