@@ -5,6 +5,11 @@ title: Updates
 
 # to be continued
 
+##### January 15th, 2025
+Participated in **Capture The Flag**, hosted by the **QUB Centre for Secure Information Technologies (CSIT)** and the **Cyber-AI Nvidia Project**. Gained hands-on experience in **Linux operations** and ethical hacking, applying cybersecurity techniques to identify hidden *flags*.
+
+
+
 ##### November 12th, 2024  
 
 I participated in the **QUB Datathon**, hosted in partnership with **Alteryx SparkED** and sponsored by **Kainos**, at **Queen’s Business School**. During the event, I received training in **Alteryx**, learning how to leverage data analytics tools for handling **Big Data**. Working as part of a team, we analyzed datasets on *General Deprivation in Northern Ireland*. We presented *Impact of Hunger and Education on NI Deprivation* in the region. ([Certificate](https://drive.google.com/file/d/1zpb-qRn0JjRYx-tfmjbOeg75DvKPXjoK/view))
