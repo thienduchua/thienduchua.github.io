@@ -10,9 +10,9 @@ title: Updates
 ##### January 15th, 2025
 Participated in **Capture The Flag**, hosted by the **QUB Centre for Secure Information Technologies (CSIT)** and the **Cyber-AI Nvidia Project**. Gained hands-on experience in **Linux operations** and ethical hacking, applying cybersecurity techniques to identify hidden *flags*. ([Certificate](https://drive.google.com/file/d/1dfAe-reBrLeptwaI5z4wB1ufGahwsJIf/view))
 <div align="center">
-    <img src="/assets/ctf_1.jpg" alt="1" width="30%">
-    <img src="/assets/ctf_2.jpg" alt="2" width="30%">
-    <img src="/assets/ctf_3.jpg" alt="3" width="30%">
+    <img src="/assets/ctf_1.jpg" alt="1" width="33%">
+    <img src="/assets/ctf_2.jpg" alt="2" width="33%">
+    <img src="/assets/ctf_3.jpg" alt="3" width="33%">
 </div>
 
 ---
@@ -32,7 +32,8 @@ I participated in the **QUB Datathon**, hosted in partnership with **Alteryx Spa
 
 Attended **2024 IEEE WCNC Conference** with my supervisors and part of our research team.
 <div align="center">
-    <img src="/assets/wcnc24_1.jpg" alt="supervisors" width="40%">
+    <img src="/assets/wcnc24_1.jpg" alt="supervisors" width="32%">
     <img src="/assets/wcnc24_2.jpg" alt="teammates" width="40%">
+    <img src="/assets/wcnc24_3.jpg" alt="teammates" width="40%">
 </div>
 
