@@ -17,6 +17,11 @@ Participated in **Capture The Flag**, hosted by the **QUB Centre for Secure Info
 
 ---
 
+##### January 8th, 2025
+Completed the **Higher Education Export Control Association** course by **NVIDIA**.  ([Certificate](https://drive.google.com/file/d/1Xxr5y3newdLM-cqZ6SSAMz3gkxRLOC_g/view))  
+
+---
+
 ##### November 12th, 2024  
 
 I participated in the **QUB Datathon**, hosted in partnership with **Alteryx SparkED** and sponsored by **Kainos**, at **Queen’s Business School**. During the event, I received training in **Alteryx**, learning how to leverage data analytics tools for handling **Big Data**. Working as part of a team, we analyzed datasets on *General Deprivation in Northern Ireland*. We presented *Impact of Hunger and Education on NI Deprivation* in the region. ([Certificate](https://drive.google.com/file/d/1zpb-qRn0JjRYx-tfmjbOeg75DvKPXjoK/view))  
@@ -44,13 +49,5 @@ Attended **2024 IEEE WCNC Conference** with my supervisors and part of our resea
 
 ##### December 1st, 2023  
 
-Completed training course **Fundamentals of Deep Learning** by **NVIDIA**. ([Certificate](https://learn.nvidia.com/certificates?id=a6b89756d9b84648ae70188b3757a9ac))  
-<div align="center">
-    <img src="/assets/wcnc24_1.jpg" alt="supervisors" width="44%">
-    <img src="/assets/wcnc24_2.jpg" alt="2a" width="44%">
-</div>
-<div align="center">
-    <img src="/assets/wcnc24_3.jpg" alt="supervisors" width="44%">
-    <img src="/assets/wcnc24_4.jpg" alt="2a" width="44%">
-</div>
+Completed the **Fundamentals of Deep Learning** training course by **NVIDIA**. ([Certificate](https://learn.nvidia.com/certificates?id=a6b89756d9b84648ae70188b3757a9ac))  
 
