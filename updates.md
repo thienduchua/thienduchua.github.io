@@ -18,7 +18,7 @@ Participated in **Capture The Flag**, hosted by the **QUB Centre for Secure Info
 ---
 
 ##### January 8th, 2025
-Completed the **Higher Education Export Control Association** course.  ([Certificate](https://drive.google.com/file/d/1Xxr5y3newdLM-cqZ6SSAMz3gkxRLOC_g/view))  
+Completed the **Higher Education Export Control Association** course, gaining knowledge of *UK export control regulations* and *compliance in research and higher education*.  ([Certificate](https://drive.google.com/file/d/1Xxr5y3newdLM-cqZ6SSAMz3gkxRLOC_g/view))  
 
 ---
 
