@@ -51,7 +51,7 @@ Completed the **Fundamentals of Deep Learning** training course by **NVIDIA**. (
 
 ##### February 17th, 2023  
 
-I would like to express my deepest gratitude to my former supervisors, [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho), [Assoc. Prof. Nhu-Ngoc Dao](https://nndao.github.io/) and [UCLab](https://uclab.re.kr/), for their unwavering support and guidance.  
+I would like to express my deepest gratitude to my former supervisors, [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho), [Asst. Prof. Nhu-Ngoc Dao](https://nndao.github.io/) and [UCLab](https://uclab.re.kr/), for their unwavering support and guidance.  
 
 With their mentorship, I earned my *Master of Engineering*, publishing *three Q1 SCIE* and *one Q2 SCIE* journal papers, along with several conference articles. Thanks to their references, I embarked on my PhD journey at Queen’s University Belfast, U.K..  
 <div align="center">
