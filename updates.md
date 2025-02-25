@@ -21,6 +21,14 @@ Completed the **Higher Education Export Control Association** course, gaining kn
 ---
 
 ##### November 12th, 2024  
+Successfully presented for the promotion of the Vietnamese Student Society (Vietsoc) and help it the-first time being ratified, by which the academic activivites of Vietsoc will officially received supports from the QUB Student Union 
+<div align="center">
+    <img src="/assets/vietsoc24_1.jpg" alt="Presentation" width="40%">
+</div>
+
+---
+
+##### November 12th, 2024  
 
 I participated in the **QUB Datathon**, hosted in partnership with **Alteryx SparkED** and sponsored by **Kainos**, at **Queen’s Business School**. During the event, I received training in **Alteryx**, learning how to leverage data analytics tools for handling **Big Data**. Working as part of a team, we analyzed datasets on *General Deprivation in Northern Ireland*. We presented *Impact of Hunger and Education on NI Deprivation* in the region. ([Certificate](https://drive.google.com/file/d/1zpb-qRn0JjRYx-tfmjbOeg75DvKPXjoK/view))  
 
