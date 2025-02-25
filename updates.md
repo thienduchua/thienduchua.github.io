@@ -23,7 +23,7 @@ Completed the **Higher Education Export Control Association** course, gaining kn
 ##### November 12th, 2024  
 Successfully presented for the promotion of the Vietnamese Student Society (Vietsoc) and help it the-first time being ratified, by which the academic activivites of Vietsoc will officially received supports from the QUB Student Union 
 <div align="center">
-    <img src="/assets/vietsoc24_1.jpg" alt="Presentation" width="40%">
+    <img src="/assets/vietsoc24_1.jpg" alt="Presentation" width="32%">
 </div>
 
 ---
