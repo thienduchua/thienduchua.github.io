@@ -16,12 +16,15 @@ Participated in **Capture The Flag**, hosted by the **QUB Centre for Secure Info
 ---
 
 ##### January 8th, 2025
+
 Completed the **Higher Education Export Control Association** course, gaining knowledge of *UK export control regulations* and *compliance in research and higher education*.  ([Certificate](https://drive.google.com/file/d/1Xxr5y3newdLM-cqZ6SSAMz3gkxRLOC_g/view))  
 
 ---
 
 ##### November 12th, 2024  
-Successfully presented for the promotion of the Vietnamese Student Society (Vietsoc) and help it the-first time being ratified, by which the academic activivites of Vietsoc will officially received supports from the QUB Student Union 
+
+Successfully presented for the [**Vietnamese Student Society (VietSoc)**](https://home.q-su.org/clubssocieties/vietnamese/), leading to its first-ever ratification. This milestone ensures official QUB Student Union support for VietSoc’s activities.  
+ 
 <div align="center">
     <img src="/assets/vietsoc24_1.jpg" alt="Presentation" width="32%">
 </div>
