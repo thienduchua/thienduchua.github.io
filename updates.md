@@ -4,6 +4,8 @@ title: Updates
 ---
 
 ---
+##### March 3rd, 2025
+Reached my first 100 citations
 
 ##### January 15th, 2025
 Participated in **Capture The Flag**, hosted by the **QUB Centre for Secure Information Technologies (CSIT)** and the **Cyber-AI NVIDIA Project**. Gained hands-on experience in **Linux operations** and ethical hacking, applying cybersecurity techniques to identify hidden *flags*. ([Certificate](https://drive.google.com/file/d/1dfAe-reBrLeptwaI5z4wB1ufGahwsJIf/view))  
