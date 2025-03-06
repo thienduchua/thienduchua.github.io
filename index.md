@@ -44,7 +44,7 @@ Supervisors: [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthai
 📍 *Chung-Ang University, Seoul, South Korea*  
 📅 *March 2021 – February 2023*  
 Thesis Title: Intelligent Reflecting Surface-assisted Uplink Rate Splitting Multiple Access Networks  
-Supervisor: [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho)  
+Supervisors: [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho) and [Dr. Nhu-Ngoc Dao](https://nndao.github.io/)
 GPA: 4.45/4.5
 
 **Bachelor of Electrical and Electronics Engineering**  
