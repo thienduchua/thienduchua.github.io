@@ -38,7 +38,7 @@ title: Home
 📍 *Queen’s University Belfast, Belfast, Northern Ireland, U.K.*  
 📅 *August 2023 – Present*  
 Research Area: Cell-free massive MIMO SWIPT, Reconfigurable Intelligent Surfaces, Deep Reinforcement Learning and Optimization Techniques  
-Supervisors: [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthaiou/home), [Prof. Hien Quoc Ngo](https://sites.google.com/site/nqhienqn/home), [Dr. Mohammad Mohammadi](https://pure.qub.ac.uk/en/persons/mohammad-mohammadi)  
+Supervisors: [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthaiou/home), [Prof. Hien Quoc Ngo](https://sites.google.com/site/nqhienqn/home), and [Dr. Mohammad Mohammadi](https://pure.qub.ac.uk/en/persons/mohammad-mohammadi)  
 
 **Master of Engineering - Major in Big Data**  
 📍 *Chung-Ang University, Seoul, South Korea*  
@@ -61,7 +61,7 @@ GPA: 7.6/10
 **Research Student**  
 📍 [*Centre for Wireless Innovation, Belfast, Northern Ireland, U.K.*](https://www.qub.ac.uk/research-centres/cwi/)  
 📅 *August 2023 – Current*  
-Managers: [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthaiou/home) & [Prof. Hien Ngo](https://sites.google.com/site/nqhienqn/home)  
+Managers: [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthaiou/home) and [Prof. Hien Ngo](https://sites.google.com/site/nqhienqn/home)  
 Project(s):  
 - Reflecting Intelligent Surfaces for Near-field Energy Transfer (R6664ECS)  
   - Funded by: *European Research Council (ERC)*  
