@@ -61,7 +61,7 @@ GPA: 7.6/10
 **Research Student**  
 📍 [*Centre for Wireless Innovation, Belfast, Northern Ireland, U.K.*](https://www.qub.ac.uk/research-centres/cwi/)  
 📅 *August 2023 – Current*  
-Supervisors: [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthaiou/home) & [Prof. Hien Ngo](https://sites.google.com/site/nqhienqn/home)  
+Managers: [Prof. Michalis Matthaiou](https://sites.google.com/site/micmatthaiou/home) & [Prof. Hien Ngo](https://sites.google.com/site/nqhienqn/home)  
 Project(s):  
 - Reflecting Intelligent Surfaces for Near-field Energy Transfer (R6664ECS)  
   - Funded by: *European Research Council (ERC)*  
@@ -70,7 +70,7 @@ Project(s):
 **Research Student**  
 📍 [*Ultra-Intelligent Computing/Communication Lab, Seoul, South Korea*](https://uclab.re.kr/index.html)  
 📅 *March 2021 – February 2023*  
-Supervisor: [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho)  
+Manager: [Prof. Sungrae Cho](https://sites.google.com/uclab.re.kr/srcho)  
 Project(s):  
 - End-to-End Ultra-Communication and Networking Technologies (NRF-2017R1A2B4009802)  
   - Funded by: *Institute for Information and Communication Technology (IITP)*  
