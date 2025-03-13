@@ -6,17 +6,12 @@ title: Publications
 # Publications
 
 ## Submitted Manuscripts
-(to be updated)
-- **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "SWIPT in Cell-Free Massive MIMO Using Stacked Intelligent Metasurfaces", *submitted to <span style="color: blue;">2025 IEEE ICC</span>*. 
-  *<span style="color: red;">(IEEE ComSoc Flagship Conference, avg. AR <40%)</span>*  
-
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *submitted to <span style="color: blue;">IEEE Transactions on Communications</span>*.
   *<span style="color: red;">(Q1 SCIE 2023, IF: 7.2)</span>*  
 
 
 
 ## International Journals 
-(to be updated)
 - Quang Tuan Do, **Thien Duc Hua**, Anh-Tien Tran, Dongwook Won, Geeranuch Woraphonebenjakul, Wonjong Noh, Sungrae Cho, 
   "Multi-UAV aided energy-aware transmissions in mmWave communication network: Action-branching QMIX network", 
   *<span style="color: blue;">Journal of Network and Computer Applications</span>*, Oct 2024.
@@ -46,7 +41,9 @@ title: Publications
 
 
 ## International Conferences
-(to be updated)
+- **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "SWIPT in Cell-Free Massive MIMO Using Stacked Intelligent Metasurfaces", *accepted in to <span style="color: blue;">2025 IEEE ICC</span>*. 
+  *<span style="color: red;">(IEEE ComSoc Flagship Conference, avg. AR <40%)</span>*  
+  
 - **Thien Duc Hua**, Mohammadali Mohammadi, Hien Quoc Ngo, Michail Matthaiou, "Cell-Free Massive MIMO SWIPT with Beyond Diagonal Reconfigurable Intelligent Surfaces", *Proc. IEEE WCNC*, Apr 2024. [🔗](https://arxiv.org/abs/2402.00646).
   *<span style="color: red;">(IEEE ComSoc Core Conference, avg. AR <46%)</span>*
 
